@@ -1,6 +1,8 @@
- //This is my first javascript
-console.log('Hello World!');
 
 let name = 'mosh';
 console.log(name);
+
+let firstName = 'mosh', lastName = 'hamedani';
+
+
 
